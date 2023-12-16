@@ -11,7 +11,7 @@ import weather from './weather.jpg'
 import arrow from './arrow.svg'
 import contact from './contact.svg'
 import JAVA from './JAVA.png'
-import MYSQL from './MYSQL.png'
+import MYSQL from './MySQL.png'
 import Atithi from './Atithi.jpeg'
 import news from './news.png'
 
